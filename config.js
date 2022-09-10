@@ -2,30 +2,30 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/GdYb1peYfLyAosgwrUnpNc', 'https://chat.whatsapp.com/GdYb1peYfLyAosgwrUnpNc']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6285850539404': { // put your number here
-    name: 'Owner Jarott Bot/Creator oscarr-wabot',
-    isDev: false, // if true this number will send if bot have bug and developer mode true
-    isReport: false, // if true this number will send if user use command /report or /join
-    isCreator: true // if true this number will send if user use command /owner or /creator
-  },
-  '6285850539404': { // put your number here
+  '6281299792351': { // put your number here
+    name: 'iRexus',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
-    isCreator: false // if true this number will send if user use command /owner or /creator
+    isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6285850539404': { // put your number here
-    name: 'Jarott',
-    isDev: false, // if true this number will send if bot have bug and developer mode true
+  '6281299792351': { // put your number here
+    isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
-    isCreator: false // if true this number will send if user use command /owner or /creator
+    isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6285850539404': {
+  '6281299792351': { // put your number here
+    name: 'iRexus',
+    isDev: true, // if true this number will send if bot have bug and developer mode true
+    isReport: true, // if true this number will send if user use command /report or /join
+    isCreator: true // if true this number will send if user use command /owner or /creator
+  },
+  '6281299792351': {
     isReport: true // if true this number will send if user use command /report or /join
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
 global.mods = ['13479805233'] // Want some help?
-global.prems = [6285850539404] // Premium user has unlimited limit
+global.prems = [6281299792351] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285850539404'
-global.author = 'JAROTT Bot Is The Best'
+global.packname = 'Packed'
+global.author = 'iRexus'
 
 global.multiplier = 39 // The higher, The harder levelup
 
